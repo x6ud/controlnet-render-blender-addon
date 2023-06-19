@@ -6,6 +6,10 @@ A ControlNet render shortcut for blender.
 ![](./screenshots/2.png)
 ![](./screenshots/3.png)
 
+## Download
+
+[v1.0.0](https://github.com/x6ud/controlnet-render-blender-addon/releases/download/v1.0.0/controlnet_render.zip) (for Blender 3.5)
+
 ## Usage
 
 1. Follow [this guide](https://stable-diffusion-art.com/beginners-guide/) to
