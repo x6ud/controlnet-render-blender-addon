@@ -19,4 +19,4 @@ and [sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet).
 3. Start Stable Diffusion web UI with webui-user.bat.
 4. In blender, switch to the Rendering workspace, press N, and click the ControlNet tab.
 5. Check each ControlNet option you want, save the file, and click "Render Input Images".
-6. Click "Generate".
+6. Click "Generate". If the generated result is not displayed, zoom the image with the mouse wheel to refresh.
